@@ -1,0 +1,45 @@
+.lista-de-itens-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lista-de-itens-container input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.lista-de-itens-container button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: aqua;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.lista-de-itens-container button:hover {
+    background-color: gold;
+}
+
+.lista-de-itens-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.lista-de-itens-container li {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}

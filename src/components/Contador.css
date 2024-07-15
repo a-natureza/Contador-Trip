@@ -1,0 +1,39 @@
+.contador {
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.numero {
+    font-size: 8em;
+    margin: 20px 0;
+    text-align: center;
+
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.botao {
+    background-color: aqua;
+    color: #ffffff;
+    padding: 10px 20 px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 4em;
+    flex: 1;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao:hover {
+    background-color: gold;
+}
