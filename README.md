@@ -30,16 +30,6 @@ Este projeto React desenvolvido com Vite apresenta diversas funcionalidades impl
 - `npm run build`: Compila o aplicativo para produção.
 - `npm run serve`: Serve o aplicativo compilado em produção localmente.
 
-## Estrutura do Projeto
-
-- `src/`: Contém o código-fonte do projeto.
-  - `components/`: Componentes React.
-  - `pages/`: Páginas React (seguindo uma estrutura de roteamento).
-  - `App.jsx`: Ponto de entrada do aplicativo React.
-  - `index.html`: Página HTML principal.
-  - `index.jsx`: Ponto de entrada do JavaScript.
-- `public/`: Contém arquivos estáticos como imagens, ícones, etc.
-
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
